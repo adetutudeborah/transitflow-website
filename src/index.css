@@ -1,0 +1,29 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --primary-color: #091242;
+  --secondary-color: #FFBE34; 
+  --tertiary-color: #F4F4F4;
+  --heading-font: #1C1F35;
+  --paragraph-font: #666C89;
+  --gradient-color: linear-gradient(94.06deg, #FFB629 -1.21%, #FFDA56 50.75%, #FFD7A6 102.71%);
+  --black-color: hsl(270, 3%, 11%);   
+  --white-color: hsl(0, 0%, 100%);  
+  --default-font-family: 'Rubik', sans-serif;;
+  --secondary-font-family: 'Krub', sans-serif;;
+}
+ 
+body {
+  margin: 0px auto;
+  font-family: var(--default-font-family);
+  background-color: var(--white-color);
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
