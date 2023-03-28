@@ -22,8 +22,8 @@
 
 # Links
 
-- [Solution URL]()
-- [Live site URL]()
+- [Solution URL](https://github.com/adetutudeborah/transitflow-website)
+- [Live site URL](https://transitflow-website.vercel.app/)
 
 # My process
 
@@ -58,7 +58,7 @@ npm run dev
 - Open `http://localhost:5173/` in your browser to view the app
 
 # Deployment
-The Designo agency website has been deployed on `Vercel`, and it can be accessed at the following URL: 
+The Designo agency website has been deployed on `Vercel`, and it can be accessed at the following URL: https://transitflow-website.vercel.app/
 
 
 # Author
