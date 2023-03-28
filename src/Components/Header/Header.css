@@ -1,0 +1,30 @@
+.headercontainer{
+    background-color: var(--primary-color);
+    display: flex;
+    justify-content: space-around;
+    padding: 2rem 5rem;
+}
+
+.logo{
+    text-align: center;
+    padding-top: 0.5rem;
+}
+
+.headerinnercontainer{
+    display: flex;
+    justify-content: space-between;
+}
+
+.headerinfo{
+    display: flex;
+    margin: 0 2rem;
+}
+
+.headertext{
+    color: var(--white-color);
+    font-family: var(--secondary-font-family);
+    font-weight: 500;
+    font-size: 0.8rem;
+    margin: 1rem auto;
+    margin-left: 1rem;
+}
