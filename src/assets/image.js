@@ -18,6 +18,14 @@ import commenticon from './testimonial/comment-icon.png';
 import ratingicon from './testimonial/rating-icon.png';
 import smith from './testimonial/smith.png';
 import martin from './testimonial/martin.png';
+import delivery from './chooseus/delivery.png';
+import pricing from './chooseus/pricing.png';
+import ship from './chooseus/ship.png';
+import support from './chooseus/support.png';
+import tracking from './chooseus/tracking.png';
+import safepackage from './chooseus/package.png';
+import chooseimage from './chooseus/choose-image.png';
+import featuretagimg from './chooseus/feature-tag-icon.png'
 
 const images = {
   logo,
@@ -40,6 +48,14 @@ const images = {
   ratingicon,
   smith,
   martin,
+  delivery,
+  safepackage,
+  pricing,
+  ship,
+  support,
+  tracking,
+  chooseimage,
+  featuretagimg,
 };
 
 export default images;
