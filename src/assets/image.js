@@ -10,7 +10,8 @@ import aboutbackground from './about/about-background.png';
 import deliveryicon from './about/delivery-time-icon.png';
 import costicon from './about/travel-cost-icon.png';
 import aboutimage from './about/about-image.png';
-import countericon from './about/counter-icon.png'
+import countericon from './about/counter-icon.png';
+import projectbgimg from './project/project-bg-img.png';
 
 const images = {
   logo,
@@ -25,7 +26,8 @@ const images = {
   deliveryicon, 
   costicon,
   aboutimage,
-  countericon
+  countericon,
+  projectbgimg
 };
 
 export default images;
