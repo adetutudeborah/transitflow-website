@@ -12,6 +12,12 @@ import costicon from './about/travel-cost-icon.png';
 import aboutimage from './about/about-image.png';
 import countericon from './about/counter-icon.png';
 import projectbgimg from './project/project-bg-img.png';
+import leftarrow from './testimonial/leftarrow.png';
+import rightarrow from './testimonial/rightarrow.png';
+import commenticon from './testimonial/comment-icon.png';
+import ratingicon from './testimonial/rating-icon.png';
+import smith from './testimonial/smith.png';
+import martin from './testimonial/martin.png';
 
 const images = {
   logo,
@@ -28,6 +34,12 @@ const images = {
   aboutimage,
   countericon,
   projectbgimg,
+  leftarrow,
+  rightarrow,
+  commenticon,
+  ratingicon,
+  smith,
+  martin,
 };
 
 export default images;
