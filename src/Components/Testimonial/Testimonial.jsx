@@ -3,7 +3,7 @@ import './Testimonial.css';
 
 function Testimonial() { 
     return(
-     <div className='container'>    
+     <div className=''>    
          Testimonial
     </div>    
     )

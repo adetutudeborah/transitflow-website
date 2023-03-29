@@ -27,7 +27,7 @@ const images = {
   costicon,
   aboutimage,
   countericon,
-  projectbgimg
+  projectbgimg,
 };
 
 export default images;

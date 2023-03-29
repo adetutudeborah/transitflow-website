@@ -3,7 +3,7 @@ import './Blog.css';
 
 function Blog() { 
     return(
-     <div className='container'>    
+     <div className=''>    
          Blog
     </div>    
     )

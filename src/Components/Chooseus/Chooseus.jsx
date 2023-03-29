@@ -3,7 +3,7 @@ import './Chooseus.css';
 
 function Chooseus() { 
     return(
-     <div className='container'>    
+     <div className=''>    
          Chooseus
     </div>    
     )
