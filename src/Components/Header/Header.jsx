@@ -4,7 +4,7 @@ import images from "../../assets/image";
 
 function Header() { 
     return(
-     <div className='container'>    
+     <div className='maincontainer'>    
         <div className='headercontainer'>
 
             <div className='logo'>
@@ -21,7 +21,7 @@ function Header() {
                         <p>Mon - Sat 9.00 - 18.00</p> 
                         <p>Sunday Closed</p>
                     </div>
-                    
+                
                 </div>
 
                 <div className='headerinfo'>
