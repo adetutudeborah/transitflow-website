@@ -14,7 +14,7 @@
   --black-color: hsl(270, 3%, 11%);   
   --white-color: hsl(0, 0%, 100%);  
   --default-font-family: 'Rubik', sans-serif;;
-  --secondary-font-family: 'Krub', sans-serif;;
+  --secondary-font-family: 'Krub', sans-serif;
 }
  
 body {

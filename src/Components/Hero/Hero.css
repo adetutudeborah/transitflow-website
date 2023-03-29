@@ -1,0 +1,109 @@
+
+.menucontainer{
+    display: flex;
+    justify-content: space-between;
+    padding-right: 13rem;
+    padding-left: 11rem;
+    background: rgba(9, 18, 66, 0.25);
+    color: var(--white-color);
+}
+
+.menu{
+    margin: 1.5rem auto;
+    margin-left: 0;
+    padding-left: 0;
+}
+
+.menucontent{
+    margin: 1.5rem auto;
+}
+
+.menuitem{
+    margin-right: 3rem;
+}
+
+.menucontentitem{
+    margin: 0rem 0.8rem;
+}
+
+.downicon{
+    height: 5px;
+    width: 5px;
+    margin-left: 0.3rem;
+}
+
+.requestquote{
+    font-family: var(--secondary-font-family);
+    font-size: 1rem;
+    font-weight: 600;
+    background: var(--white-color);
+    text-decoration: none;
+    display: inline-block;
+    padding: 1.5rem 2rem;
+    color: #23212A;
+}
+
+.herocontainer{
+    background-image: url('/src/assets/hero/hero-background-image.png');
+    background-repeat: no-repeat;
+    object-fit: contain;
+    height: 1035px;
+    background-position: center;
+    background-origin: border-box;
+    width: 100%;
+    background-size: 1920px 1035px;
+    position: relative;
+}
+
+.heroinnercontainer{
+    width: 1200px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.herosection{
+    width: 50%;
+}
+
+.herosubtext{
+    background: rgba(4, 28, 55, 0.5);
+    font-family: var(--default-font-family);
+    font-style: normal;
+    font-weight: 400;
+    font-size: 0.9rem;
+    color: var(--white-color);
+    border-left: 4px solid #FFB629;
+    padding: 0.3rem 0.6rem;
+}
+
+.heromaintext{
+    font-family: var(--default-font-family);
+    color: var(--white-color);
+    font-weight: 700;
+    font-size: 3.8rem;
+    margin: 1rem 0;
+}
+
+.herotext{
+    font-family: var(--secondary-font-family);
+    font-weight: 500;
+    font-size: 1rem;
+    color: var(--white-color);
+    margin-bottom: 2rem;
+    line-height: 1.8;
+}
+
+.explorebtn:link,
+.explorebtn:visited { 
+    font-family: var(--secondary-font-family);
+    font-size: 1rem;
+    font-weight: 500;
+    background: var(--gradient-color);
+    color: #23212A;;
+    text-decoration: none;
+    display: inline-block;
+    padding: 1rem 1.3rem;
+}
+

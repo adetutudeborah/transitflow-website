@@ -1,7 +1,7 @@
 import React from 'react';
 import './Homepage.css'; 
 import Header from '../../Components/Header/Header';
-import Banner from '../../Components/Banner/Banner';
+import Hero from '../../Components/Hero/Hero';
 import Services from '../../Components/Services/Services';
 import About from '../../Components/About/About';
 import Project from '../../Components/Project/Project';
@@ -16,7 +16,7 @@ function Homepage() {
     return(
      <div>    
         <Header />
-        <Banner />
+        <Hero />
         <Services />
         <About />
         <Project />
