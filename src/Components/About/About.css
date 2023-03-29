@@ -1,0 +1,98 @@
+/* .aboutsection{
+    
+} */
+
+.aboutbackgroundimg{
+    width:100%
+}
+
+.aboutcontainer{
+    background-color: var(--white-color);
+    padding: 6rem 0 1rem;
+    margin: 0 12rem;
+    position: relative;
+    top: -8rem;   
+}
+
+.aboutinnercontainer{
+    display: flex;
+    justify-content: center;
+}
+
+.aboutcontenttext{
+    background: rgba(232, 232, 232, 0.5);
+    color: var(--heading-font);
+    font-family: var(--default-font-family);
+    font-style: normal;
+    font-weight: 400;
+    font-size: 0.9rem;
+    border-left: 4px solid #FFB629;
+    padding: 0.3rem 0.6rem;
+}
+
+.aboutcontentmaintext{
+    color: var(--heading-font);
+    font-family: var(--default-font-family);
+    font-style: normal;
+    font-weight: 600;
+    font-size: 2rem;
+    padding: 1rem 0;
+}
+
+.aboutcontentsubtext{
+    color: var(--paragraph-font);
+    font-family: var(--secondary-font-family);
+    font-weight: 500;
+    font-size: 1rem;
+}
+
+.aboutfeature{
+    display: flex;
+    margin: 1rem 0;
+}
+
+.featuretext{
+    margin: 1rem;
+    color: var(--heading-font);
+    font-family: var(--default-font-family);
+    font-weight: 400;
+    font-size: 1.2rem;
+}
+
+.aboutcounter{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    border-top: 1px solid #D5D5D5;
+    border-bottom: 1px solid #D5D5D5;
+    margin: 0 15rem;
+}
+
+.counter{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 4rem;
+}
+
+.counterleft{
+    border-right: 1px solid #D5D5D5;
+    padding-right: 8rem;
+}
+
+.number{
+    color: var(--heading-font);
+    font-family: var(--default-font-family);
+    font-weight: 600;
+    font-size: 3rem;
+}
+
+.countericon{
+    margin: 1.6rem 1rem;
+}
+
+.countercontent{
+    font-family: 'League Spartan';
+    font-weight: 400;
+    font-size: 1.2rem;
+    margin: 1.25rem auto;
+} 
