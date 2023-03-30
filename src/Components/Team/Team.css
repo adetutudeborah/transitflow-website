@@ -1,6 +1,7 @@
 .teamcontainer{
-    margin: 8rem 5rem 6rem;
-    width: 100%;
+    margin: 8rem 0rem 6rem;
+    width: 100% !important;
+    border: 1px solid red;
 }
 
 .teamheading{
@@ -62,15 +63,15 @@
     padding: 0.8rem 0.5rem;
     position: absolute;
     bottom: 85px;
-    left: 236px;
+    left: 224px;
 }
 
 .jesssocialicon{
-   left: 266px;
+   left: 255px;
 }
 
 .rebocialicon{
-   left: 298px;
+   left: 287px;
 }
 
 .socialicon{

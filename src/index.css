@@ -28,4 +28,9 @@ a {
   color: inherit;
 }
 
+.row {
+  --bs-gutter-x: 0 !important;
+  --bs-gutter-y: 0 !important;
+}
+
 /* background: linear-gradient(0deg, #091242 14.34%, rgba(60, 60, 60, 0) 43.86%); */
