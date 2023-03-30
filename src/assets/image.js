@@ -25,7 +25,10 @@ import support from './chooseus/support.png';
 import tracking from './chooseus/tracking.png';
 import safepackage from './chooseus/package.png';
 import chooseimage from './chooseus/choose-image.png';
-import featuretagimg from './chooseus/feature-tag-icon.png'
+import featuretagimg from './chooseus/feature-tag-icon.png';
+import jessca from './team/jessca-arow.png';
+import kathleen from './team/kathleen-smith.png';
+import rebecca from './team/rebecca-tylor.png';
 
 const images = {
   logo,
@@ -56,6 +59,9 @@ const images = {
   tracking,
   chooseimage,
   featuretagimg,
+  jessca,
+  kathleen,
+  rebecca,
 };
 
 export default images;
