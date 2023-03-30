@@ -33,6 +33,10 @@ import clientone from './contact/client-logo-one.png';
 import clienttwo from './contact/client-logo-two.png';
 import clientthree from './contact/client-logo-three.png';
 import clientfour from './contact/client-logo-four.png';
+import calendar from './blog/calendar-icon.png';
+import blogimgone from './blog/blog-img-one.png';
+import blogimgtwo from './blog/blog-img-two.png';
+import blogimgthree from './blog/blog-img-three.png';
 
 const images = {
   logo,
@@ -70,6 +74,10 @@ const images = {
   clienttwo,
   clientthree,
   clientfour,
+  calendar,
+  blogimgone,
+  blogimgtwo,
+  blogimgthree,
 };
 
 export default images;

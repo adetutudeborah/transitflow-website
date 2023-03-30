@@ -1,0 +1,115 @@
+.blogcontainer{
+    margin: 5rem 0; 
+}
+
+.blogtext{
+    background: rgba(232, 232, 232, 0.5);
+    color: var(--heading-font);
+    font-family: var(--default-font-family);
+    font-style: normal;
+    font-weight: 400;
+    font-size: 0.9rem;
+    border-left: 4px solid #FFB629;
+    padding: 0.3rem 0.6rem;
+}
+
+.blogmaintext{
+    color: var( --heading-font);
+    font-family: var(--default-font-family);
+    font-style: normal;
+    font-weight: 600;
+    font-size: 2.1rem;
+    padding: 1rem 0;
+    margin-bottom: 0;
+}
+
+/* Blog section */
+
+.blogsection{
+    padding: 3rem 0;
+}
+
+.bloginnercontainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    border-top: 1px solid #D8D8D8;
+    border-bottom: 1px solid #D8D8D8;
+    padding: 2rem 0;
+    margin: 0 18rem;
+}
+
+.blogcontentcontainer{
+    display: flex;
+    margin-left: 1.8rem;
+}
+
+.blogcontent{
+    border-left: 2px solid #D8D8D8;
+    margin-left: 1.8rem;
+}
+
+.date{
+    font-family: var(--default-font-family);
+    font-style: normal;
+    font-weight: 600;
+    font-size: 2.5rem;
+    color: var(--heading-font);
+    margin-bottom: 0;
+}
+
+.month{
+    color: var(--paragraph-font);
+    font-family: var(--secondary-font-family);
+    font-weight: 500;
+    font-size: 1rem;
+    margin-bottom: 0;
+}
+
+.blogmainheading{
+    font-family: var(--default-font-family);
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.5rem;
+    color: var(--heading-font);
+    margin-left: 1.8rem;
+    white-space: nowrap;
+}
+
+.secondblogheading{
+     color: var(--secondary-color);
+}
+
+.blogsubheading{
+    color: var(--paragraph-font);
+    font-family: var(--secondary-font-family);
+    font-weight: 500;
+    font-size: 1rem;
+    margin-bottom: 0;
+    margin-left: 1.8rem;
+    white-space: nowrap;
+}
+
+.bloglistitem{
+    color: var(--heading-font);
+    font-family: var(--secondary-font-family);
+    font-weight: 500;
+    font-size: 1rem;
+}
+
+.bloglist{
+    margin-left: 1.3rem;
+}
+
+.blogbtn:link,
+.blogbtn:visited { 
+    font-family: var(--secondary-font-family);
+    font-size: 1rem;
+    font-weight: 600;
+    background: var(--primary-color);
+    color: var(--white-color);
+    text-decoration: none;
+    display: inline-block;
+    padding: 1rem 4rem;
+}
+

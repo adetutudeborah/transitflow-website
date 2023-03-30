@@ -101,21 +101,21 @@ textarea{
     resize: none !important;
 }
 
-  textarea::placeholder{
+textarea::placeholder{
     color: var(--white-color) !important;
   }
 
-  .contactbtn:link,
-  .contactbtn:visited { 
-      font-family: var(--secondary-font-family);
-      font-size: 1rem;
-      font-weight: 600;
-      background: linear-gradient(94.06deg, #FFB629 -1.21%, #FFDA56 58.66%, #FFD7A6 116.84%);
-      color: #23212A;
-      text-decoration: none;
-      display: inline-block;
-      padding: 1rem 2rem;
-  }
+.contactbtn:link,
+.contactbtn:visited { 
+    font-family: var(--secondary-font-family);
+    font-size: 1rem;
+    font-weight: 600;
+    background: linear-gradient(94.06deg, #FFB629 -1.21%, #FFDA56 58.66%, #FFD7A6 116.84%);
+    color: #23212A;
+    text-decoration: none;
+    display: inline-block;
+    padding: 1rem 2rem;
+}
   
 
 .clientlogocontainer{
