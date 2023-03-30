@@ -37,6 +37,7 @@ import calendar from './blog/calendar-icon.png';
 import blogimgone from './blog/blog-img-one.png';
 import blogimgtwo from './blog/blog-img-two.png';
 import blogimgthree from './blog/blog-img-three.png';
+import footerimg from './footer/footer-image.png'
 
 const images = {
   logo,
@@ -78,6 +79,7 @@ const images = {
   blogimgone,
   blogimgtwo,
   blogimgthree,
+  footerimg,
 };
 
 export default images;

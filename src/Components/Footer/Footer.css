@@ -1,0 +1,120 @@
+.footercontainer{
+   background: var(--primary-color);
+   color: var(--white-color);
+}
+
+.footerinnercontainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding: 3rem 4rem 2rem;
+}
+
+.footerimage{
+    width: 100%;
+}
+
+.footertext{
+    color: var(--white-color);
+    font-family: var(--secondary-font-family);
+    font-weight: 400;
+    font-size: 0.9rem;
+    line-height: 1.8;
+    white-space: nowrap;
+}
+
+.footerinfo{
+    display: flex;
+    margin: 1.5rem 0;
+}
+
+.footertime{
+    color: var(--white-color);
+    font-family: var(--secondary-font-family);
+    font-weight: 500;
+    font-size: 0.8rem;
+    margin: 0.8rem;
+    margin-left: 1rem;
+}
+
+.footertime p{
+    margin-bottom: 0;
+}
+
+.footerlist p{
+    font-family: var(--secondary-font-family);
+    font-weight: 500;
+    font-size: 0.9rem;
+    color: var(--white-color);
+}
+
+.footerheading{
+    font-family: var(--secondary-font-family);
+    font-weight: 500;
+    font-size: 0.6rem;
+    background-color: hsl(231, 47%, 22%);
+    padding: 0 10rem;  
+}
+
+.footerheading span{
+    font-size: 1.2rem;
+}
+
+.footertitle{
+    padding: 0 4.5rem;
+}
+
+.footerlogoimage{
+    background-color: var(--primary-color);
+    padding: 1.5rem 8.7rem 1.5rem 3rem; 
+}
+
+.subcribelinks{
+    display: flex;
+    flex-direction: row;
+}
+
+.subscribebtn:link,
+.subscribebtn:visited { 
+    font-family: var(--secondary-font-family);
+    font-size: 1rem;
+    font-weight: 600;
+    background: linear-gradient(94.06deg, #FFB629 -1.21%, #FFDA56 58.66%, #FFD7A6 116.84%);
+    color: #23212A;
+    text-decoration: none;
+    display: inline-block;
+    padding: 1rem 2rem;
+}
+  
+.footersocialicons{
+    margin: 2.5rem 1.5rem;
+}
+
+.footersocialicon{
+    margin-left: 1rem;
+    margin-right: 0.5rem;
+}
+
+/* Copyright Section */
+
+.copyrightcontainer{
+    border-top: 1px solid #4E5683;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 2rem 12rem;
+}
+
+.copyrighttitle{
+    font-family: var(--secondary-font-family);
+    font-weight: 500;
+    font-size: 1rem;
+}
+
+.copyrightitem{
+    margin: 0 1rem;
+    font-family: var(--secondary-font-family);
+    font-weight: 400;
+    font-size: 1rem;
+    color: #8388A7;    
+}
