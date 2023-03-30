@@ -29,6 +29,10 @@ import featuretagimg from './chooseus/feature-tag-icon.png';
 import jessca from './team/jessca-arow.png';
 import kathleen from './team/kathleen-smith.png';
 import rebecca from './team/rebecca-tylor.png';
+import clientone from './contact/client-logo-one.png';
+import clienttwo from './contact/client-logo-two.png';
+import clientthree from './contact/client-logo-three.png';
+import clientfour from './contact/client-logo-four.png';
 
 const images = {
   logo,
@@ -62,6 +66,10 @@ const images = {
   jessca,
   kathleen,
   rebecca,
+  clientone,
+  clienttwo,
+  clientthree,
+  clientfour,
 };
 
 export default images;
