@@ -15,7 +15,7 @@ function Header() {
             <div className='headerinnercontainer'>
 
                 <div className='headerinfo'>
-                    <img src={images.time} alt="time-icon" className=''/>  
+                    <img src={images.time} alt="time-icon" className='headerinfoicon'/>  
 
                     <div className='headertext'>
                         <p>Mon - Sat 9.00 - 18.00</p> 
@@ -25,7 +25,7 @@ function Header() {
                 </div>
 
                 <div className='headerinfo'>
-                    <img src={images.email} alt="email-icon" className=''/>  
+                    <img src={images.email} alt="email-icon" className='headerinfoicon'/>  
 
                     <div className='headertext'>
                         <p>Email</p> 
@@ -36,7 +36,7 @@ function Header() {
                 </div>
 
                 <div className='headerinfo'>
-                    <img src={images.call} alt="call-icon" className=''/>  
+                    <img src={images.call} alt="call-icon" className='headerinfoicon'/>  
 
                     <div className='headertext'>
                         <p>Call Us</p> 
