@@ -4,7 +4,6 @@
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -12,25 +11,30 @@
   - [Challenge encountered](#challenge-encountered)
 - [Author](#author)
 
+</br>
+
 # Overview
 
 ## The challenge
 
 - To reproduce a desktop pixel-perfect implementation of the home page of the Transitflow website.
 
-# Screenshot
-
+</br>
 
 # Links
 
 - [Solution URL](https://github.com/adetutudeborah/transitflow-website)
 - [Live site URL](https://transitflow-website.vercel.app/)
 
+</br>
+
 # My process
 
 # Built with
 
-- React
+- React Js
+
+</br>
 
 # Setting up the repository
 
@@ -58,13 +62,18 @@ npm run dev
 ```
 - Open `http://localhost:5173/` in your browser to view the app
 
+</br>
+
 # Challenge encountered
 
 - To add the button hover effect to the buttons on the home page.
 
-# Deployment
-The Designo agency website has been deployed on `Vercel`, and it can be accessed at the following URL: https://transitflow-website.vercel.app/
+</br>
 
+# Deployment
+The Transitflow website has been deployed on `Vercel`, and it can be accessed at the following URL: https://transitflow-website.vercel.app/
+
+</br>
 
 # Author
 
