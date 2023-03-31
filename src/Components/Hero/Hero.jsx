@@ -10,10 +10,8 @@ function Hero() {
             <div className='menucontainer'>
 
                 <div className='menu'>
-                    <span className='menuitem'>Home</span>
-                    <span><i class="fa-solid fa-pipe"></i></span>
+                    <span className='firstmenuitem'>Home</span>
                     <span className='menuitem'>About</span>
-                    <span><i class="fa-sharp fa-solid fa-pipe"></i></span>
                     <span className='menuitem'>Pages<span className='downicon'><i class="fa-solid fa-chevron-down downicon"></i></span></span>
                     <span className='menuitem'>Project</span>
                     <span className='menuitem'>Contact</span>
