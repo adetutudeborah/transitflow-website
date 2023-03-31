@@ -38,7 +38,7 @@ function Project() {
     ]);
 
     return(
-    <>
+    <div className='projectmainsection'>
         <div className='projectcontainer'>   
 
                 <h4 className='projectheading text-center'>Transporting Across The World</h4> 
@@ -67,7 +67,7 @@ function Project() {
         <div className="projectbgimage">
                 <img src={images.projectbgimg} alt="project-bg-image" className='projectbgimg'/>
         </div>
-    </>
+    </div>
     )
 }
 

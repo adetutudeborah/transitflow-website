@@ -1,9 +1,13 @@
+.projectmainsection{
+  position: relative;
+  padding-top: 26rem;
+}
+
 .projectcontainer{
-   border: 1px solid red;
    margin-top: 0rem;
    padding-top: 0;
-   position: relative;
-   top: 13rem;   
+   position: absolute;
+   bottom: 6rem;   
 } 
 
 .projectinnercontainer{
